@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .app {
@@ -10,7 +11,6 @@
 
 .nav {
   display: flex;
-  justify-content: center;
   margin-bottom: 20px;
 }
 
@@ -33,7 +33,6 @@ p {
   font-size: 18px;
   color: #666;
 }
-
 
 @keyframes App-logo-spin {
   from {

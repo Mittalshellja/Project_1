@@ -17,10 +17,10 @@ function App() {
           <NavLink to="/special-moments" activeClassName="active">Special Moments</NavLink>
         </nav>
         <Routes>
-          <Route path="/" exact component={AboutHer} />
-          <Route path="/friendship" component={Friendship} />
-          <Route path="/gallery" component={Gallery} />
-          <Route path="/special-moments" component={SpecialMoments} />
+          <Route exact path="/" element={<AboutHer/>} />
+          <Route exact path="/friendship" element={<Friendship/>} />
+          <Route exact path="/gallery" element={<Gallery/>} />
+          <Route exact path="/special-moments" element={<SpecialMoments/>} />
         </Routes>
       </div>
     </Router>

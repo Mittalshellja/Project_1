@@ -1,0 +1,42 @@
+/* Curtain Animation Keyframes */
+@keyframes openCurtainLeft {
+  0% {
+    transform: translateX(0) rotate(0deg);
+  }
+  50% {
+    transform: translateX(-50%) rotate(-2deg); /* Halfway point with a slant */
+    animation-timing-function: ease-in-out;
+  }
+  100% {
+    transform: translateX(-100%) rotate(5deg); /* Fully opened */
+  }
+}
+
+@keyframes openCurtainRight {
+  0% {
+    transform: translateX(0) rotate(0deg);
+  }
+  50% {
+    transform: translateX(40%) rotate(2deg); /* Halfway point with a slant */
+    animation-timing-function: ease-in-out;
+  }
+  100% {
+    transform: translateX(100%) rotate(-5deg); /* Fully opened */
+  }
+}
+
+/* Applying the animations */
+.curtain-closed {
+  transform: translateX(0) rotate(0deg);
+}
+
+.curtain-open-left {
+  animation: openCurtainLeft 6s ease-in-out forwards;
+}
+
+.curtain-open-right {
+  animation: openCurtainRight 6s ease-in-out forwards;
+}
+.audio-player {
+  margin-top: 2rem;
+}
