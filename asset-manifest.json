@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/ekta_goyal/static/css/main.c14057ff.css",
+    "main.js": "/ekta_goyal/static/js/main.c2845ad5.js",
+    "static/js/453.55d804d2.chunk.js": "/ekta_goyal/static/js/453.55d804d2.chunk.js",
+    "static/media/EKTA13.jpg": "/ekta_goyal/static/media/EKTA13.3453938a2cfa1125581d.jpg",
+    "static/media/EKTA6.jpg": "/ekta_goyal/static/media/EKTA6.e8108f45467ad76f6d4e.jpg",
+    "static/media/EKTA26.JPG": "/ekta_goyal/static/media/EKTA26.8c3f7ccbfd11217712b0.JPG",
+    "static/media/EKTA8.jpg": "/ekta_goyal/static/media/EKTA8.1ec267a9f2bace96c7cb.jpg",
+    "static/media/EKTA17.jpg": "/ekta_goyal/static/media/EKTA17.8230a6f87fcb6fa6fc0b.jpg",
+    "static/media/EKTA12.jpg": "/ekta_goyal/static/media/EKTA12.5ef75b200e62a7bc6a37.jpg",
+    "static/media/EKTA27.jpg": "/ekta_goyal/static/media/EKTA27.e01dc547bd1e16c55eca.jpg",
+    "static/media/Song1.mp3": "/ekta_goyal/static/media/Song1.80a814dc8559ca5a5bb2.mp3",
+    "static/media/EKTA15.jpg": "/ekta_goyal/static/media/EKTA15.fb1e4dbfb5bfd20be76e.jpg",
+    "static/media/EKTA25.jpg": "/ekta_goyal/static/media/EKTA25.2851a583eb668dbe17fa.jpg",
+    "static/media/Song2.mp3": "/ekta_goyal/static/media/Song2.f0eed90421320d84f3b8.mp3",
+    "static/media/EKTA18.jpg": "/ekta_goyal/static/media/EKTA18.939076673bdc49497b03.jpg",
+    "static/media/EKTA7.jpg": "/ekta_goyal/static/media/EKTA7.8ec734dc1b2a401259cd.jpg",
+    "static/media/EKTA21.jpg": "/ekta_goyal/static/media/EKTA21.e5f17915c94988b02309.jpg",
+    "static/media/EKTA11.jpg": "/ekta_goyal/static/media/EKTA11.4b702abcceb0faa4f68d.jpg",
+    "static/media/EKTA10.jpg": "/ekta_goyal/static/media/EKTA10.8ecd5beb21a35ad96586.jpg",
+    "static/media/EKTA4.jpg": "/ekta_goyal/static/media/EKTA4.650935c4ec7b6cc2380b.jpg",
+    "static/media/EKTA16.jpg": "/ekta_goyal/static/media/EKTA16.88fb4eb5e66991420ba4.jpg",
+    "static/media/EKTA22.jpg": "/ekta_goyal/static/media/EKTA22.27dd70d6c5f550a2164b.jpg",
+    "static/media/EKTA5.jpg": "/ekta_goyal/static/media/EKTA5.b2b1ee124a8396706903.jpg",
+    "static/media/EKTA20.jpg": "/ekta_goyal/static/media/EKTA20.fde9fc3afed2d873b881.jpg",
+    "static/media/EKTA23.jpg": "/ekta_goyal/static/media/EKTA23.34b4dbba5c6897db7cf4.jpg",
+    "static/media/EKTA14.jpg": "/ekta_goyal/static/media/EKTA14.adeebc5007379498e8e0.jpg",
+    "static/media/EKTA2.jpg": "/ekta_goyal/static/media/EKTA2.c6c9138ae6fe1608d3ef.jpg",
+    "static/media/EKTA19.jpg": "/ekta_goyal/static/media/EKTA19.0d8da37d49cce5a2eea1.jpg",
+    "static/media/EKTA3.jpg": "/ekta_goyal/static/media/EKTA3.03cb1ad6a6bf2513bc04.jpg",
+    "static/media/EKTA1.jpg": "/ekta_goyal/static/media/EKTA1.954857bcb2298076166f.jpg",
+    "index.html": "/ekta_goyal/index.html",
+    "main.c14057ff.css.map": "/ekta_goyal/static/css/main.c14057ff.css.map",
+    "main.c2845ad5.js.map": "/ekta_goyal/static/js/main.c2845ad5.js.map",
+    "453.55d804d2.chunk.js.map": "/ekta_goyal/static/js/453.55d804d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c14057ff.css",
+    "static/js/main.c2845ad5.js"
+  ]
+}
